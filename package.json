@@ -4,7 +4,7 @@
   "description": "experiments with module federation in React with Webpack5",
   "main": "index.js",
   "repository": "https://github.com/burhanuday/module-federation-with-react",
-  "author": "burhanuday",
+  "author": "Angad Yadav",
   "license": "MIT",
   "private": true,
   "workspaces": {
